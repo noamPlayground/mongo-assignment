@@ -3,7 +3,7 @@
 ## Prior requirements
 - Please make sure to have Docker Engine and Docker Compose installed in order to start the application.
 
-This repository includes a simple Python 3 application that inserts data to a MongoDB database, manipulates the data, and displays it in a webpage using the Flask web framework.
+This repository includes a simple Python 3 application that inserts data to a new MongoDB database and collection, manipulates the data, and displays it in a webpage using the Flask web framework.
 
 ### Instructions:
 
@@ -12,6 +12,7 @@ When in the project's root directory, simply run:
 $ docker-compose up
 
 docker-compose will provision a MongoDB server and the Python application.
+When the application is running, a web page containing details from the newly created MongoDB collection is available at http://127.0.0.1:5000/.
 
 
 ### Notes:
