@@ -11,7 +11,7 @@ When in the project's root directory, simply run:
 
 $ docker-compose up
 
-docker-compose.yml will provision a MongoDB server and the Python application.
+docker-compose will provision a MongoDB server and the Python application.
 
 
 ### Notes:
