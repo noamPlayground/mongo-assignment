@@ -1,0 +1,5 @@
+firstname: barney, lastname: stinson, username: legendary2, password: Pasfdqwhi2
+firstname: ted, lastname: mosby, username: drX, password: VhFjkd221
+firstname: marshall, lastname: eriksen, username: marshmallow, password: amBrand2
+firstname: lily, lastname: aldrin, username: lilypad9, password: bmk93087fy73
+firstname: robin, lastname: scherbatsky, username: robintsky, password: huGi3Fk39
