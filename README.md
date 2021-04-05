@@ -1,7 +1,7 @@
 # mongo-assignment
 
 ## Prior requirements
-- Please make sure to have Docker Compose installed in order to start the application.
+- Please make sure to have Docker Engine and Docker Compose installed in order to start the application.
 
 This repository includes a simple Python application that inserts data to a MongoDB database, manipulates the data, and displays it in a webpage using the Flask web framework.
 
