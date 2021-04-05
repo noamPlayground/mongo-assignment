@@ -20,5 +20,6 @@ docker-compose.yml will provision a MongoDB server and the Python application.
 - Dockerfile builds the Python application
 - requirements.txt includes dependencies for the Python application to run.
 - docker-composel.yml defines the Python application container, and MongoDB container that will be applied using Docker Compose.
+- After running the application via Docker Compose, DB collection data will be available in the host machine machine at '/exportData/users.json'.
 - The Python application can also be downloaded from Docker Hub at noamozer/mongo-assignment-app, but it is recommended to use Docker Compose in order to create the MongoDB along with the Python application.
 - The app uses the default MongoDB port of 27017.
